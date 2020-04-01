@@ -1,3 +1,5 @@
+# https://programmers.co.kr/learn/courses/30/lessons/43104
+
 dp = [1, 1]
 def solution(N):
     if N > 2: 
